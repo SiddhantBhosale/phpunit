@@ -1,0 +1,7 @@
+phpunit.settings:
+  path: '/phpunit/settings'
+  defaults:
+    _form: '\Drupal\phpunit\Form\LearningSettingsForm'
+    _title: 'phpunit'
+  requirements:
+    _permission: 'administer site configuration'

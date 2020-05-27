@@ -1,0 +1,7 @@
+name: my_phpunit
+type: module
+description: 'module used for my_phpunit test.'
+package: Core
+version: VERSION
+core: 8.x
+hidden: true
